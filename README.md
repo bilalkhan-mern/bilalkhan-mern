@@ -34,11 +34,22 @@
 
 ---
 
-## 📌 Featured Projects
-- 🔐 MERN Authentication App
-- 🛒 Mini E-Commerce App
-- 📊 React Dashboard
-- 📝 CRUD Application
+# Bilal Khan — MERN Stack Projects
+
+This repository contains links to my MERN stack projects.
+
+## 🔐 MERN Authentication App
+👉 https://github.com/bilalkhan/mern-auth-app
+
+## 🛒 Mini E-Commerce App
+👉 https://github.com/bilalkhan/mini-ecommerce-app
+
+## 📊 React Dashboard
+👉 https://github.com/bilalkhan/react-dashboard
+
+## 📝 CRUD Application
+👉 https://github.com/bilalkhan/crud-app
+
 
 ---
 
