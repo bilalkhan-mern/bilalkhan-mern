@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Bilal Khan
 
-<!--
-**bilalkhan-mern/bilalkhan-mern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | React.js | Node.js | MongoDB  
+📍 Ahmedabad, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 I’m currently building MERN stack projects
+- 🌱 Learning advanced React & backend development
+- 💼 Open to MERN Stack Fresher / Intern roles
+- ⚡ Passionate about clean UI & scalable backend
+
+---
+
+## 🛠 Tech Stack
+**Frontend**
+- React.js
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Featured Projects
+- 🔐 MERN Authentication App
+- 🛒 Mini E-Commerce App
+- 📊 React Dashboard
+- 📝 CRUD Application
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/bilalkhan-pathan-7258a4252
+- 📧 Email: bilal8511018651@gmail.com
