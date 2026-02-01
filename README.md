@@ -39,7 +39,7 @@
 This repository contains links to my MERN stack projects.
 
 ## 🔐 MERN Authentication App
-👉 https://github.com/bilalkhan/mern-auth-app
+👉 https://github.com/bilalkhan-mern/mern-auth-app.git
 
 ## 🛒 Mini E-Commerce App
 👉 https://github.com/bilalkhan/mini-ecommerce-app
