@@ -45,7 +45,7 @@ This repository contains links to my MERN stack projects.
 👉 https://github.com/bilalkhan/mini-ecommerce-app
 
 ## 📊 React Portfolio
-👉 [https://github.com/bilalkhan-mern/react-portfolio.git]
+👉 https://github.com/bilalkhan-mern/react-portfolio.git
 
 ## 📝 CRUD Application
 👉 https://github.com/bilalkhan/crud-app
