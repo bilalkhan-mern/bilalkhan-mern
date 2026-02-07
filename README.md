@@ -44,8 +44,8 @@ This repository contains links to my MERN stack projects.
 ## 🛒 Mini E-Commerce App
 👉 https://github.com/bilalkhan/mini-ecommerce-app
 
-## 📊 React Dashboard
-👉 https://github.com/bilalkhan/react-dashboard
+## 📊 React Portfolio
+👉 [https://github.com/bilalkhan-mern/react-portfolio.git]
 
 ## 📝 CRUD Application
 👉 https://github.com/bilalkhan/crud-app
