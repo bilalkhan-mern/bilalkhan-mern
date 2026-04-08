@@ -26,6 +26,7 @@
 
 **Database**
 - MongoDB
+- MySQL 
 
 **Tools**
 - Git & GitHub
@@ -41,8 +42,8 @@ This repository contains links to my MERN stack projects.
 ## 🔐 MERN Authentication App
 👉 https://github.com/bilalkhan-mern/mern-auth-app.git
 
-## 🛒 Mini E-Commerce App
-👉 https://github.com/bilalkhan/mini-ecommerce-app
+## 🛒 Hospital Management Application
+👉 https://github.com/bilalkhan-mern/hospital-management-mern.git
 
 ## 📊 React Portfolio
 👉 https://github.com/bilalkhan-mern/react-portfolio.git
