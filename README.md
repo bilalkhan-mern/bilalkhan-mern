@@ -45,11 +45,11 @@ This repository contains links to my MERN stack projects.
 ## 🛒 Hospital Management Application
 👉 https://github.com/bilalkhan-mern/hospital-management-mern.git
 
-## 📊 React Portfolio
-👉 https://github.com/bilalkhan-mern/react-portfolio.git
+## 📊 bilalkhan Portfolio
+👉 https://github.com/bilalkhan-mern/bilalkhan-portfolio.git
 
-## 📝 CRUD Application
-👉 https://github.com/bilalkhan/crud-app
+## 📝 Ecommerce Website
+👉 https://github.com/bilalkhan/ecommerce-website
 
 
 ---
