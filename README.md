@@ -49,7 +49,7 @@ This repository contains links to my MERN stack projects.
 👉 https://github.com/bilalkhan-mern/bilalkhan-portfolio.git
 
 ## 📝 Ecommerce Website
-👉 https://github.com/bilalkhan/ecommerce-website
+👉 https://github.com/bilalkhan-mern/ecommerce-website
 
 
 ---
